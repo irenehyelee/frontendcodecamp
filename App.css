@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+#wrapper {
+  align-content: flex-end;
+
+}
+
+#quote-box {
+  width: 500px;
+  padding: 5px;
+  border: 1px solid gray;
+  margin: 0;
+  position: absolute center;
+  margin-left: auto;
+  margin-right:auto;
+  margin-top: auto;
+}
+
+#text{
+  text-align: center;
+
+}
+
+#author{
+  text-align: center;
+}
+
+#new-quote{
+  width: 300px;
+  padding: 5px;
+  border: 1px solid gray;
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#tweet-quote{
+width: 300px;
+padding: 5px;
+border: 1px solid gray;
+margin: 0;
+font-family: 'Courier New', Courier, monospace;
+}
